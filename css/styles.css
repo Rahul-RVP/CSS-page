@@ -1,0 +1,140 @@
+body{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+.top-container{
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+h1{
+  margin: 3.125rem auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+h2{
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+.solution{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.developer{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+a{
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 10px 20px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.Architect{
+  font-weight: normal;
+}
+.skill-one{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill-two{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.greetings{
+  margin-top: 1em;
+}
+.my-skills{
+  margin-top: 1em;
+}
+.getintouch{
+  margin-top: 1em;
+}
+.expone{
+  line-height: 2;
+}
+.exptwo{
+  line-height: 2;
+}
+.skl{
+  line-height: 2;
+}
+.bio{
+  color: #40514e;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 50px auto 50px auto;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 75%;
+  padding: 20px 0 0 0;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  margin: 20px 0 0 0;
+}
+.bio{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+.msg{
+  margin: 25px auto 25px auto;
+}
+.btn{
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
